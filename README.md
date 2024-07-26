@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/roadkernel/roadkernel/main/brd2.png"  />
+  <img height="250" src="https://raw.githubusercontent.com/roadkernel/roadkernel/main/gnom3.png"  />
 </div>
 
 ###
