@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">• Coordinator @ [Gnome](https://egirl.dev).<br>• CyberSecurity enthusiast.<br>• Team management since 2020.</p>
+<p align="left">• Coordinator @ <a href="https://egirl.dev"><span>Gnome</span></a>.<br>• CyberSecurity enthusiast.<br>• Team management since 2020.</p>
 
 ###
 
