@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/roadkernel/roadkernel/main/brd2.png"  />
-</div>
 
 ###
 
@@ -8,7 +5,7 @@
 
 ###
 
-<p align="left">• Coordinator @ <a href="https://egirl.dev"><span>Gnome.</span></a><br>• CyberSecurity enthusiast.<br>• Team management since 2020.</p>
+<p align="left">• Coordinator @ <a href="https://egirl.dev"><span>Vault4.</span></a><br>• CyberSecurity enthusiast.<br>• Team management since 2020.</p>
 
 ###
 
